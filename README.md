@@ -12,7 +12,7 @@
 | Frontend & desktop | Blazor WebAssembly, WPF (MVVM), vanilla JS, Telegram Mini Apps |
 | Data | PostgreSQL, Oracle (PL/SQL, ODP.NET), MySQL, SQLite |
 | Testing | xUnit, `WebApplicationFactory`, SpecFlow, test automation frameworks, mutation testing |
-| DevOps | Docker, GitHub Actions, Linux/systemd, DigitalOcean |
+| DevOps | CI/CD pipelines (GitHub Actions: build, test, Docker image smoke tests), Docker, Linux/systemd, DigitalOcean |
 | Integrations & AI | OpenAI API, ML.NET, Telegram Bot API, external REST APIs, Claude Code |
 
 ### Featured projects
